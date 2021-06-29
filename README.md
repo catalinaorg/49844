@@ -1,12 +1,13 @@
 This repo can be used to run Vault with Active Directory secrets engine.
 
 # Pre-req
-Vault 1.6.2
-Vagrant 2.2.9
-VirtualBox
-Active Directory in Vagrant 
 
-#How to use this repo
+* Vault 1.6.2
+* Vagrant 2.2.9
+* VirtualBox
+* Windows DC https://github.com/martinhristov90/Vagrant_Windows_DC
+
+# How to use this repo
 
 
 $ chmod +x start.sh
