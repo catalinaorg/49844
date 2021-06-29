@@ -10,11 +10,11 @@ This repo can be used to run Vault with Active Directory secrets engine.
 # How to use this repo
 
 
-$ chmod +x start.sh
+`$ chmod +x start.sh`
 
 - run Vault server, initialize and unseal it
 
-$ ./start.sh
+`$ ./start.sh`
 
 - configure Active Directory secrets engine with script repro.sh
 
