@@ -18,5 +18,9 @@ This repo can be used to run Vault with Active Directory secrets engine.
 
 - configure Active Directory secrets engine with script repro.sh
 
+```
+
 $ chmod +x repro.sh
 $ ./repro.sh
+
+```
